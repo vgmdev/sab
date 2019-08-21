@@ -3,37 +3,24 @@
   "tracker": "https://tracker.vgm.tv",
   "api": "QmQchefFmvEwsssrKS7aqDoT7hCnBoU6QdsRx5vAtLqGph",
   "thumbnails": "QmQeeJQE8sGosq82TaW6an89Z7eHeBPzWmGAmNL6cg8tJW",
-  "version": 1566,
+  "version": 1572,
   "nodes": [
     {
-      "id": "QmQjUXFjp9PnD4oyEHpj2ChJThtTjQjuQFVJiEs5BFqFrd",
-      "gateway": "https://vn.gateway.vgm.tv",
-      "multiaddress": "/dns4/gateway-vn-hcm-master.duckdns.org/tcp/4001/ipfs/QmQjUXFjp9PnD4oyEHpj2ChJThtTjQjuQFVJiEs5BFqFrd",
+      "id": "QmPJZT9FBQBGPLp5rMaYaubsTH6Jgt5tGVh1ATxrAXfnwk",
       "master": true
-    },
-    {
-      "id": "QmXx1UWdM3vKraTvz5QenE2PMT3AzGpds2XCtuCwZMShFm",
-      "gateway": "http://fihel.gateway.vgm.me",
-      "multiaddress": "/dns4/fihel.gateway.vgm.me/tcp/4001/ipfs/QmXx1UWdM3vKraTvz5QenE2PMT3AzGpds2XCtuCwZMShFm",
-      "master": false
-    },
-    {
-      "id": "QmcUvzucycUZg5s4srYfqB8QbHuGFTiHnyGbPUL9aYRDsD",
-      "gateway": "http://vintl1.gateway.vgm.me",
-      "multiaddress": "/dns4/vintl1.gateway.vgm.me/tcp/4001/ipfs/QmcUvzucycUZg5s4srYfqB8QbHuGFTiHnyGbPUL9aYRDsD",
-      "master": false
     }
   ],
   "gateways": [
-    "https://gateway.vgm.tv"
+    "http://gateway.hjk.men"
   ],
   "gatewaysweak": [
-    "http://gateway.vgm.cloud",
+    "http://gateway.hjk.men",
     "http://gateway.vgm.me"
   ],
   "peers": [
-    "/dns4/gateway-vn-hcm-master.duckdns.org/tcp/4001/ipfs/QmQjUXFjp9PnD4oyEHpj2ChJThtTjQjuQFVJiEs5BFqFrd",
-    "/dns4/fihel.gateway.vgm.me/tcp/4001/ipfs/QmXx1UWdM3vKraTvz5QenE2PMT3AzGpds2XCtuCwZMShFm",
-    "/dns4/vintl1.gateway.vgm.me/tcp/4001/ipfs/QmcUvzucycUZg5s4srYfqB8QbHuGFTiHnyGbPUL9aYRDsD"
+    "/dns4/vn-hcm-m1.nodes.vgm.me/tcp/4001/ipfs/QmPJZT9FBQBGPLp5rMaYaubsTH6Jgt5tGVh1ATxrAXfnwk",
+    "/dns4/fi-helsinki-m1.nodes.vgm.me/tcp/4001/ipfs/QmXx1UWdM3vKraTvz5QenE2PMT3AzGpds2XCtuCwZMShFm",
+    "/dns4/vn-hcm-ntl1.nodes.vgm.me/tcp/4001/ipfs/QmcUvzucycUZg5s4srYfqB8QbHuGFTiHnyGbPUL9aYRDsD",
+    "/dns4/vn-hcm-tbt2.nodes.vgm.me/tcp/4001/ipfs/QmR5mzYTVPhbVAHtFqLFJdStj4VLX6JnFCwnBeBVmdWu48"
   ]
 }
