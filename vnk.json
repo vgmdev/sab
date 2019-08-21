@@ -4,12 +4,7 @@
   "api": "QmQchefFmvEwsssrKS7aqDoT7hCnBoU6QdsRx5vAtLqGph",
   "thumbnails": "QmQeeJQE8sGosq82TaW6an89Z7eHeBPzWmGAmNL6cg8tJW",
   "version": 1572,
-  "nodes": [
-    {
-      "id": "QmPJZT9FBQBGPLp5rMaYaubsTH6Jgt5tGVh1ATxrAXfnwk",
-      "master": true
-    }
-  ],
+  "nodes": [],
   "gateways": [
     "http://gateway.hjk.men"
   ],
