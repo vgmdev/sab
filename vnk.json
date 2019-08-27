@@ -1,12 +1,13 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmQchefFmvEwsssrKS7aqDoT7hCnBoU6QdsRx5vAtLqGph",
+  "api": "QmP6NJayhqSH5ACjUdG6mAwpmP7VzQ9JzgMArPvM6SqqFH",
   "thumbnails": "QmQeeJQE8sGosq82TaW6an89Z7eHeBPzWmGAmNL6cg8tJW",
-  "version": 1573,
+  "version": 2321,
   "nodes": [],
   "gateways": [
-    "http://gateway.hjk.men"
+    "http://gateway.hjk.men",
+    "https://gateway.hjm.bid"
   ],
   "gatewaysweak": [
     "http://gateway.hjk.men",
