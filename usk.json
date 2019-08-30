@@ -6,8 +6,7 @@
   "version": 2321,
   "nodes": [],
   "gateways": [
-    "https://gateway.hjm.bid",
-    "http://fihel.gateway.hjk.men"
+    "https://gateway.hjm.bid"
   ],
   "gatewaysweak": [
     "http://fihel.gateway.vgm.me",
