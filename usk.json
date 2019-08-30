@@ -6,10 +6,12 @@
   "version": 2321,
   "nodes": [],
   "gateways": [
+    "https://gateway.hjm.bid",
     "http://fihel.gateway.hjk.men"
   ],
   "gatewaysweak": [
-    "http://fihel.gateway.vgm.me"
+    "http://fihel.gateway.vgm.me",
+    "http://fihel.gateway.hjk.men"
   ],
   "peers": [
     "/dns4/vn-hcm-m1.nodes.vgm.me/tcp/4001/ipfs/QmPJZT9FBQBGPLp5rMaYaubsTH6Jgt5tGVh1ATxrAXfnwk",
