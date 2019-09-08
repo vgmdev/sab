@@ -1,12 +1,13 @@
 {
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmYhxYpWKffvizGi7aYhnbUiUDXgq7ENGUYpfgVJ9JGi5Z",
-  "version": 3452,
+  "api": "QmaEcaaHg8gQxZ7nCCbSsVttcVA6PncmToq8boHeuDNwKg",
+  "version": 3552,
   "nodes": [],
   "gateways": [
     "https://gateway.hjm.bid"
   ],
   "gatewaysweak": [
+    "http://fihel.gateway.vgm.me",
     "http://usst.gateway.vgm.me"
   ]
 }
