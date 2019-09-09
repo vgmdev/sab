@@ -1,9 +1,10 @@
 {
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmaEcaaHg8gQxZ7nCCbSsVttcVA6PncmToq8boHeuDNwKg",
-  "version": 3552,
+  "api": "QmSaqNCpuK9cEqKTBJ1tj8E7Vyum1w82YUAwHZ4oh16P2D",
+  "version": 3632,
   "nodes": [],
   "gateways": [
+    "http://usst.gateway.vgm.me",
     "https://gateway.hjm.bid"
   ],
   "gatewaysweak": [
