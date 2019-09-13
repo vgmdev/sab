@@ -5,10 +5,9 @@
   "version": 7714,
   "nodes": [],
   "gateways": [
-    "http://sin.gateway.hjk.men"
+    "https://proxy.vgm.me"
   ],
   "gatewaysweak": [
-    "http://sin.gateway.vgm.me",
-    "http://gateway.vgm.me"
+    "http://proxy.vgm.me"
   ]
 }
