@@ -1,14 +1,14 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmYhxYpWKffvizGi7aYhnbUiUDXgq7ENGUYpfgVJ9JGi5Z",
-  "version": 3452,
+  "api": "QmPVAPcGbC9e6XboAzFWAi8oaq7tihBj4PWC47FV3Q2PM3",
+  "version": 7713,
   "nodes": [],
   "gateways": [
     "http://sin.gateway.hjk.men"
   ],
   "gatewaysweak": [
-    "http://gateway.vgm.me",
-    "http://sin.gateway.vgm.me"
+    "http://sin.gateway.vgm.me",
+    "http://gateway.vgm.me"
   ]
 }
