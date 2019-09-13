@@ -1,0 +1,13 @@
+{
+  "site": "https://vgm.tv",
+  "tracker": "https://tracker.vgm.tv",
+  "api": "QmVT7b3jtgg5XQGpZwjmwV3Vjcdkc27KYq2y1kr3qZSoCH",
+  "version": 7714,
+  "nodes": [],
+  "gateways": [
+    "https://fihel.gateway.vgm.me"
+  ],
+  "gatewaysweak": [
+    "http://fihel.gateway.vgm.me"
+  ]
+}
