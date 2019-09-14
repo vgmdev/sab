@@ -1,0 +1,13 @@
+{
+  "site": "https://vgm.tv",
+  "tracker": "https://tracker.vgm.tv",
+  "api": "QmZgDa8QQp1bVpHxm3t2NhEYWxopadrGvpQ3BYW3juphWG",
+  "version": 7724,
+  "nodes": [],
+  "gateways": [
+    "https://gateway.b-cdn.net"
+  ],
+  "gatewaysweak": [
+    "http://gateway.b-cdn.net"
+  ]
+}
