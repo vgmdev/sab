@@ -1,13 +1,13 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmVT7b3jtgg5XQGpZwjmwV3Vjcdkc27KYq2y1kr3qZSoCH",
-  "version": 7714,
+  "api": "QmZgDa8QQp1bVpHxm3t2NhEYWxopadrGvpQ3BYW3juphWG",
+  "version": 7724,
   "nodes": [],
   "gateways": [
-    "https://proxy.vgm.me"
+    "https://d5ikc4vvclv6e.cloudfront.net"
   ],
   "gatewaysweak": [
-    "http://proxy.vgm.me"
+    "http://d5ikc4vvclv6e.cloudfront.net"
   ]
 }
