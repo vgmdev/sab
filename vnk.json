@@ -5,9 +5,9 @@
   "version": 7724,
   "nodes": [],
   "gateways": [
-    "https://d5ikc4vvclv6e.cloudfront.net"
+    "https://proxy.vgm.me"
   ],
   "gatewaysweak": [
-    "http://d5ikc4vvclv6e.cloudfront.net"
+    "http://proxy.vgm.me"
   ]
 }
