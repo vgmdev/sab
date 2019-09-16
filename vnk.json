@@ -5,9 +5,9 @@
   "version": 7724,
   "nodes": [],
   "gateways": [
-    "https://proxy.vgm.me"
+    "https://cdn.hjm.bid"
   ],
   "gatewaysweak": [
-    "http://proxy.vgm.me"
+    "http://cdn.hjm.bid"
   ]
 }
