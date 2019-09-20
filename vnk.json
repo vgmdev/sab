@@ -1,8 +1,8 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmZgDa8QQp1bVpHxm3t2NhEYWxopadrGvpQ3BYW3juphWG",
-  "version": 7724,
+  "api": "QmaTeZrRYELnwmUp8cn9dn6Pv2Jyqb7eQVdTeyDFxrkKAX",
+  "version": 11712,
   "nodes": [],
   "gateways": [
     "https://cdn.hjm.bid"
