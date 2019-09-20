@@ -4,9 +4,7 @@
   "api": "QmaTeZrRYELnwmUp8cn9dn6Pv2Jyqb7eQVdTeyDFxrkKAX",
   "version": 11712,
   "nodes": [],
-  "gateways": [
-    "https://cdn.hjm.bid"
-  ],
+  "gateways": [],
   "gatewaysweak": [
     "http://cdn.hjm.bid"
   ]
