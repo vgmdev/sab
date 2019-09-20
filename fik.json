@@ -1,13 +1,11 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmVT7b3jtgg5XQGpZwjmwV3Vjcdkc27KYq2y1kr3qZSoCH",
-  "version": 7714,
+  "api": "QmaTeZrRYELnwmUp8cn9dn6Pv2Jyqb7eQVdTeyDFxrkKAX",
+  "version": 11712,
   "nodes": [],
-  "gateways": [
-    "https://fihel.gateway.vgm.me"
-  ],
+  "gateways": [],
   "gatewaysweak": [
-    "http://fihel.gateway.vgm.me"
+    "http://febc-cache.cdnvideo.ru"
   ]
 }
