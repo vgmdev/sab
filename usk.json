@@ -1,13 +1,11 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmZgDa8QQp1bVpHxm3t2NhEYWxopadrGvpQ3BYW3juphWG",
-  "version": 7724,
+  "api": "QmejXd1ZoMvtq3ihBL25nkbnR822StWAsqjYyniNsUkyGf",
+  "version": 13477,
   "nodes": [],
-  "gateways": [
-    "https://d5ikc4vvclv6e.cloudfront.net"
-  ],
+  "gateways": [],
   "gatewaysweak": [
-    "http://d5ikc4vvclv6e.cloudfront.net"
+    "http://cdn.hjm.bid"
   ]
 }
