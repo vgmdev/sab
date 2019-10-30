@@ -6,7 +6,6 @@
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://cdn2.hjm.bid",
     "http://cdn.hjm.bid"
   ]
 }
