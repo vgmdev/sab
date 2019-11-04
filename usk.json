@@ -1,11 +1,11 @@
 {
   "site": "https://vgm.tv",
   "tracker": "https://tracker.vgm.tv",
-  "api": "QmejXd1ZoMvtq3ihBL25nkbnR822StWAsqjYyniNsUkyGf",
-  "version": 13477,
+  "api": "QmV7Zwr3scREDFNLnqyoXGupZLkDBCgnQ65r62QnRCSH9z",
+  "version": 16683,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://cdn.hjm.bid"
+    "http://speaker.hjm.bid"
   ]
 }
