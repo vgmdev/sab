@@ -6,9 +6,6 @@
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://speaker-us.hjm.bid",
-    "http://d5ikc4vvclv6e.cloudfront.net",
-    "http://speaker.hjm.bid",
-    "http://speaker.hjk.men"
+    "http://speaker-us.hjm.bid"
   ]
 }
