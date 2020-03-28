@@ -1,11 +1,12 @@
+
 {
   "site": "https://vgm.tv",
-  "tracker": "https://tracker.vgm.tv",
-  "api": "QmaTeZrRYELnwmUp8cn9dn6Pv2Jyqb7eQVdTeyDFxrkKAX",
-  "version": 11712,
+  "tracker": "http://ana.hjm.bid",
+  "api": "QmV86noQaybWuoUJiX6TBeYqmgcF3xikdy74Ae4ZfgLxBV",
+  "version": 18440,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://febc-cache.cdnvideo.ru"
+    "http://speaker-us.hjm.bid"
   ]
 }
