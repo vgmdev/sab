@@ -6,7 +6,6 @@
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://speaker.hjm.bid",
-    "http://speaker.hjk.men"
+    "http://speaker.hjm.bid"
   ]
 }
