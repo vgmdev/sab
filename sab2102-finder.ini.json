@@ -1,0 +1,6 @@
+{
+  "finders": [
+    "http://cdn.vgm.tv/api/instruction.json",
+    "http://131.153.50.130:7777/api/instruction.json"
+  ]
+}
