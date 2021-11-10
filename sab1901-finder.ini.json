@@ -1,0 +1,9 @@
+{
+  "finders":[
+    "http://sab-pi.local:8080/ipns/local",
+    "http://gateway.qazwsxedc1901.me/ipns/vnk.qazwsxedc1901.me",
+    "http://gateway.hjk.men/ipns/vnk.hjk.men",
+    "https://gateway.hjm.bid/ipns/vnk.hjm.bid",
+    "https://raw.githubusercontent.com/vgmdev/sab/master/vnk.json"
+  ]
+}
