@@ -1,12 +1,10 @@
 {
-  "site": "https://vgm.tv",
   "tracker": "http://ana.hjm.bid",
-  "api": "QmV4W8F2hnBzJ5keepNVE5FSBPWs2XcpZAB2qgcFdNhZpB",
-  "version": 20211,
+  "api": "QmPQoo17LwrrTy4UtKNxo9314nLx8wFE7PXtkFpyasRh9T",
+  "version": 20220101,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://speaker.hjm.bid",
-    "http://speaker.hjk.men"
+    "http://cdn.hjm.bid"
   ]
 }
