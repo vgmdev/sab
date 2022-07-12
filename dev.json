@@ -3,8 +3,10 @@
   "api": "bafybeibu3ckhdhmz5ejo3vgza33mjkl2vuomzfpvusbqp3lpmyxsyov32i",
   "version": 20220706,
   "nodes": [],
-  "gateways": [],
+  "gateways": [
+    "https://cdn-ipfs-sgp.hjm.bid"
+  ],
   "gatewaysweak": [
-    "http://192.168.2.133:8080"
+    "http://cdn-ipfs-sgp.hjm.bid"
   ]
 }
