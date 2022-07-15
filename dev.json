@@ -4,9 +4,9 @@
   "version": 20220710,
   "nodes": [],
   "gateways": [
-    "https://cdn-ipfs-sgp.hjm.bid"
+    "https://media-sgp.hjm.bid"
   ],
   "gatewaysweak": [
-    "http://cdn-ipfs-sgp.hjm.bid"
+    "http://medis-sgp.hjm.bid"
   ]
 }
