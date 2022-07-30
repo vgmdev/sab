@@ -6,5 +6,7 @@
   "gateways": [
     "https://media-sgp.hjm.bid"
   ],
-  "gatewaysweak": []
+  "gatewaysweak": [
+    "https://media-sgp.hjm.bid"
+  ]
 }
