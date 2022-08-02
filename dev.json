@@ -3,10 +3,8 @@
   "api": "QmTTU1X22krvzCZJ5PaGpduTWw4mtmooWXt8G7Louuq5zz",
   "version": 20220710,
   "nodes": [],
-  "gateways": [
-    "https://media-sgp.hjm.bid"
-  ],
+  "gateways": [],
   "gatewaysweak": [
-    "https://media-sgp.hjm.bid"
+    "http://media-sgp.hjm.bid"
   ]
 }
