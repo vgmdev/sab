@@ -5,6 +5,7 @@
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
+    "http://provider.mainnet-1.ca.aksh.pw:30292",
     "http://cdn-ipfs-sgp.hjm.bid"
   ]
 }
