@@ -1,5 +1,5 @@
 {
-  "tracker": "http://n8n.hjm.bid:39999/webhook/tv-tracker/collect",
+  "tracker": "http://n8n.hjm.bid:39999/webhook/tv-tracker",
   "api": "QmR5AyuxP9k3n3gfHioHkRBTF57f1cWHZKee8X7WiDtDHs",
   "version": 20220720,
   "nodes": [],
