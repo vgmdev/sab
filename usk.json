@@ -5,7 +5,7 @@
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://gateway-us.vgm.cloud/",
+    "http://gateway-us.vgm.cloud",
     "http://cdn-ipfs-sgp.hjm.bid",
     "http://cdn-ipfs-vn.hjm.bid"
   ]
