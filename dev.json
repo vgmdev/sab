@@ -1,10 +1,19 @@
 {
   "tracker": "http://ana.hjm.bid",
-  "api": "QmXFofNEgqtepqfzrsG2b7RHETknE6xPZYuDvdur1mXpco",
-  "version": 20220728,
-  "nodes": [],
+  "api": "QmNVDi4TBNQUetw5c8hsRz453Bvhfb1MLRnZkQR7eBBTuJ",
+  "version": 1679286935300,
+  "gateway": "http://localhost",
+  "search_gateway": "https://search.hjm.bid",
+  "dist": "bafybeibqkki55a3umtalhq4tl5eshwehry4qqdga5xjwmicheur5mdymwa",
+  "search": "ZGI1MTk2ODFhNDJiNGVhOTkxOTRjY2FjMTEzNGE1NDJhNGM5NjdiYzQ5Y2ZmYTFkNjQ0ODJmYzQ2YWE1NjJhNA==",
+  "nodes": [
+  	"/dns4/vn.hjm.bid/udp/4001/quic/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
+    "/dns4/sgp.hjm.bid/udp/4001/quic/p2p/12D3KooWR49QchZDCtfaYsfnznKNAhdcXJHg94PFqw4Efk4kioFi"
+  ],
   "gateways": [],
   "gatewaysweak": [
-    "http://7utpdclpdd8fvd4cpplh4l97bk.ingress-akash-cluster01-atl1.dlinodes.com"
+    "https://cdn.hjm.bid",
+    "https://cdn-ipfs-vn.hjm.bid",
+    "https://cdn-ipfs-sgp.hjm.bid"
   ]
 }
