@@ -1,12 +1,12 @@
 {
   "tracker": "http://ana.hjm.bid",
   "api": "QmdLxXHNcRpGUnhekrZCcN9CPt5Zfazt9e9jJk7kUFCdrg",
-  "version": 20221229,
+  "version": 20221230,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
+    "http://cdn.hjm.bid",
     "http://cdn-ipfs-vn.hjm.bid",
-    "http://cdn-ipfs-sgp.hjm.bid",
-    "http://gateway-us.vgm.cloud"
+    "http://cdn-ipfs-sgp.hjm.bid"
   ]
 }
