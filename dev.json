@@ -1,11 +1,13 @@
 {
   "tracker": "http://ana.hjm.bid",
   "api": "QmdLxXHNcRpGUnhekrZCcN9CPt5Zfazt9e9jJk7kUFCdrg",
-  "web_api": "QmSF5qkPpYwB27EnEvGnxZ7DFhVi5pqmEUmmiaWGqWQJr1",
-  "version": 2023032007,
+  "web_api": "QmXh3jLzmHY617DLLBRQyDwVHRNEGgeZVs8YwDmkhNZAvQ",
+  "version": 2023032015,
   "stream_gateway": "http://localhost",
   "search_gateway": "https://search.hjm.bid",
-  "dist": "bafybeibqkki55a3umtalhq4tl5eshwehry4qqdga5xjwmicheur5mdymwa",
+  "desktop_app_url": "https://link.storjshare.io/raw/jwdt5hma23wwnzs6o25odgxjs36a/releases/vgm-vn/vgm_0.1.0_platform.extension",
+  "web_domain": "https://vgm.tv",
+  "dist": "bafybeiaothmsanzzzyunolqgsunwpkzajz7yz3wf4wtgpfmcxmw2zryc3i",
   "search": "ZGI1MTk2ODFhNDJiNGVhOTkxOTRjY2FjMTEzNGE1NDJhNGM5NjdiYzQ5Y2ZmYTFkNjQ0ODJmYzQ2YWE1NjJhNA==",
   "nodes": [
   	"/dns4/vn.hjm.bid/udp/4001/quic/p2p/12D3KooWJVA45ydfCAqRTjJ4SHxdsbyGehvK5EgPwvEM5ifsLPeY",
