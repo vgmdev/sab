@@ -1,7 +1,7 @@
 {
   "tracker": "http://ana.hjm.bid",
-  "api": "QmdLxXHNcRpGUnhekrZCcN9CPt5Zfazt9e9jJk7kUFCdrg",
-  "version": 2023042822,
+  "api": "QmZpVfVz8bVLpzkTLHEpJ53TVJr6AvWv1FjkwXDZACzFci",
+  "version": 2023042823,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": ["http://cdn.hjm.bid", "http://cdn-ipfs-vn.hjm.bid"]
