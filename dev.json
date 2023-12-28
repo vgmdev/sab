@@ -1,11 +1,13 @@
 {
   "tracker": "http://ana.hjm.bid",
-  "api": "QmZpVfVz8bVLpzkTLHEpJ53TVJr6AvWv1FjkwXDZACzFci",
-  "version": 2023051505,
+  "api": "QmQvXuRY9Auf5jSuJn8iqc11HAHnZZuN6UmzGj7aGjHnMV",
+  "version": 2023063003,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
-    "http://cdn.hjm.bid",
-    "http://cdn-ipfs-vn.hjm.bid"
+    "http://cdn.vgm.tv",
+    "http://cdn1.vgm.tv",
+    "http://cdn-ct.vgm.tv",
+    "http://cdn-hn.vgm.tv"
   ]
 }
