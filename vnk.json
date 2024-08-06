@@ -1,12 +1,13 @@
 {
   "tracker": "http://ana.hjm.bid",
-  "api": "QmQvXuRY9Auf5jSuJn8iqc11HAHnZZuN6UmzGj7aGjHnMV",
-  "version": 2023063003,
+  "api": "QmbKgQjLTwe6zfTWdPrxZXuBPYCtCDajhraeKF9aernGNP",
+  "version": 2024080603,
   "nodes": [],
   "gateways": [],
   "gatewaysweak": [
     "http://cdn.vgm.tv",
     "http://cdn1.vgm.tv",
-    "http://cdn-ct.vgm.tv"
+    "http://cdn-ct.vgm.tv",
+    "http://stream.qazwsxedc1901.me"
   ]
 }
